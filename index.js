@@ -56,4 +56,6 @@ mergeMP4Files(inputFiles, outputFilePath, (error) => {
 });
 
 
-// TODO: Add progress logs
+// TODO: 
+// 1. Add progress logs
+// 2. Add files path cli argument 
